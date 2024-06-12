@@ -5,6 +5,8 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 
+---
+
 ### Project Overview
 
 A project overview is a one-page summary of a project that provides key details to help people quickly understand the project. It's usually created before the project starts and included at the beginning of a project proposal or plan.
@@ -75,3 +77,13 @@ I had to remove certain records from analysis because they would have affected t
 
 Thank you for reading!
 
+| Year | Sales |
+| ---------- | ---------- |
+| 2010 | $1M |
+| 2011 | $4M |
+
+`column 1`
+
+**bold**
+
+*Italic*
