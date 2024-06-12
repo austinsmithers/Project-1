@@ -9,6 +9,9 @@
 
 A project overview is a one-page summary of a project that provides key details to help people quickly understand the project. It's usually created before the project starts and included at the beginning of a project proposal or plan.
 
+<img width="253" alt="Screen Shot 2024-06-11 at 10 41 54 PM" src="https://github.com/austinsmithers/Project-1/assets/172429232/7fda4439-bd27-4491-86aa-dae2469ac58e">
+
+
 ### Data Sources
 
 Sales Data The primary dataset used for this analysis is "sales_data.csv" containing detailed information from ACRIS on previously sold listings on the UES.
@@ -29,6 +32,8 @@ In the initial data preparation phase, we  performed...
 ### Exploratory Data Analysis
 
 EDA involved exploring the sales data to answer key questions:
+
+Add viz's if possible here for EDA
 
 - What is the overall sales trend?
 - Which products are top sellers?
