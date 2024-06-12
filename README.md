@@ -73,3 +73,5 @@ I had to remove certain records from analysis because they would have affected t
 1. SQL for Businesses by werty
 2. [Stack Overflow](https://stack.com)
 
+Thank you for reading!
+
